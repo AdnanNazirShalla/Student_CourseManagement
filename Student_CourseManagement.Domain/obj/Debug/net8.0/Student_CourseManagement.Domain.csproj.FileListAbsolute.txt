@@ -1,0 +1,11 @@
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\bin\Debug\net8.0\Student_CourseManagement.Domain.deps.json
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\bin\Debug\net8.0\Student_CourseManagement.Domain.dll
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\bin\Debug\net8.0\Student_CourseManagement.Domain.pdb
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\Student_CourseManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\Student_CourseManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\Student_CourseManagement.Domain.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\Student_CourseManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\Student_CourseManagement.Domain.dll
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\refint\Student_CourseManagement.Domain.dll
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\Student_CourseManagement.Domain.pdb
+C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\obj\Debug\net8.0\ref\Student_CourseManagement.Domain.dll

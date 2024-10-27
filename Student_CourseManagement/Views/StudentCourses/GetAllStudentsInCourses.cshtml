@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Student_CourseManagement.Application.RRModels.StudentCourseResponse>
+
+@{
+    ViewData["Title"] = "GetAllStudentsInCourses";
+}
+
+<h1>StudentsInCourses</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </td>
+            <td>
+                    <a class="btn btn-danger" asp-action="DeleteStudentFromCourse" asp-route-id="@item.Id" asp-controller="StudentCourses">Remove</a>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

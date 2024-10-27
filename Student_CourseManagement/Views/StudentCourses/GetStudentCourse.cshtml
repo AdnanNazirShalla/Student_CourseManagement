@@ -1,0 +1,62 @@
+﻿@model Student_CourseManagement.Application.RRModels.StudentCourseRequest
+
+@{
+    ViewData["Title"] = "GetStudentCourse";
+}
+
+<h1>StudentCourse</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="AddStudentCourse" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group row">
+                <div class="col-md-6">
+                    <label for="CourseId" class="control-label"></label>
+                    <select for="CourseId" name="CourseId" class="form-label" asp-items="@Model.courses" required>
+                        <option value="">Select Course</option>
+                    </select>
+                </div>
+                <div class="col-md-6" style="display:flex;justify-content:end">
+                    <a class="btn btn-success" asp-action="GetAllStudentsInCourses" asp-controller="StudentCourses">View All</a>
+
+                </div>
+
+                @* <span asp-validation-for="CourseName" class="text-danger"></span> *@
+            </div>
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach (var item in Model.students)
+                        {
+                            <tr>
+                                <td>@item.Name</td>
+                                <td>@item.Email</td>
+                                <td>
+                                    <button type="submit" class="btn btn-success" asp-action="AddStudentCourse" asp-controller="StudentCourses" asp-route-Id="@item.Id">Assign</button>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            @* <div class="form-group">
+            <input type="submit" value="Add" class="btn btn-primary" />
+            </div> *@
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
