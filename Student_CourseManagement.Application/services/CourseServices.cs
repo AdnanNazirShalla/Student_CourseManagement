@@ -43,9 +43,9 @@ namespace Student_CourseManagement.Application.services
         {
             var studentsInCourse = await repository.FindBy<StudentCourse>(x=>x.CourseId==id);
             var updateStudents= await repository.RemoveStudentsInCourse(id);
+            var course = await repository.GetById<Course>(id);
 
-
-            if (await repository.DeleteAsync<Course>(id) > 0)
+            if (await repository.DeleteAsync<Course>(course) > 0)
             {
                 if (studentsInCourse != null)
                 {

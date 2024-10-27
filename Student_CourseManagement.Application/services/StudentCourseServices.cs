@@ -54,7 +54,7 @@ namespace Student_CourseManagement.Application.services
                 var student = await repository.GetById<Student>(studentCourse.StudentId);
                 student.IsAssigned = false;
 
-                if (await repository.DeleteAsync<StudentCourse>(studentCourse.Id) > 0 && 
+                if (await repository.DeleteAsync<StudentCourse>(studentCourse) > 0 && 
                     await repository.UpdateAsync<Student>(student) > 0)
                 {
                     return 1;

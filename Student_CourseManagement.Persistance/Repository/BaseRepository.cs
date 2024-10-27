@@ -33,10 +33,13 @@ namespace Student_CourseManagement.Persistance.Repository
             return await dbContext.SaveChangesAsync();
         }
 
-        public async Task<int> DeleteAsync<T>(Guid id) where T : class
+        public async Task<int> DeleteAsync<T>(T entity) where T : class
         {
-            var model=await dbContext.Set<T>().FindAsync(id);
-           await Task.Run(()=> dbContext.Set<T>().Remove(model));
+            if (entity == null)
+            {
+                throw new ArgumentNullException(nameof(entity), "Entity to delete cannot be null.");
+            }
+            await Task.Run(()=> dbContext.Set<T>().Remove(entity));
             return await dbContext.SaveChangesAsync();
         }
 

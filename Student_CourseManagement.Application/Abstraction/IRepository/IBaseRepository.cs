@@ -20,7 +20,7 @@ namespace Student_CourseManagement.Application.Abstraction.IRepository
 
         Task<int> UpdateRangeAsync<T>(IEnumerable<T> entity) where T : class ;
 
-        Task<int> DeleteAsync<T>(Guid id) where T : class ;
+        Task<int> DeleteAsync<T>(T entity) where T : class ;
 
         Task<int> DeleteRangeAsync<T>(IEnumerable<T> entity) where T : class;
 

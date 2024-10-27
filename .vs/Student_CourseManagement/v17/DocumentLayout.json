@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{19507EC3-C103-4D11-B65C-DBFA1A2744EE}|Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj|solutionrelative:student_coursemanagement.persistance\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\services\\studentcourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\services\\studentcourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\services\\courseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\services\\courseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\abstraction\\irepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\abstraction\\irepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement\\views\\studentcourses\\getstudentsbycourseid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|solutionrelative:student_coursemanagement\\views\\studentcourses\\getstudentsbycourseid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|solutionrelative:student_coursemanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,20 +59,8 @@
       "RelativeMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|solutionrelative:student_coursemanagement\\views\\studentcourses\\getstudentcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\services\\studentcourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\services\\studentcourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement\\views\\studentcourses\\getstudentsbycourseid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|solutionrelative:student_coursemanagement\\views\\studentcourses\\getstudentsbycourseid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|solutionrelative:student_coursemanagement\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\services\\courseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\services\\courseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CE651A3-619B-40C4-8497-89066CB5F958}|Student_CourseManagement\\Student_CourseManagement.API.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement\\views\\courses\\getcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -83,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{19507EC3-C103-4D11-B65C-DBFA1A2744EE}|Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj|solutionrelative:student_coursemanagement.persistance\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\abstraction\\irepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\abstraction\\irepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|c:\\users\\hp\\documents\\github\\student_coursemanagement\\student_coursemanagement.application\\abstraction\\irepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C07AD830-AA3F-475B-B834-F0DAB385E535}|Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj|solutionrelative:student_coursemanagement.application\\abstraction\\irepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -106,11 +110,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AddStudent.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Students\\AddStudent.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Students\\AddStudent.cshtml",
@@ -123,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Controllers\\StudentsController.cs",
@@ -132,37 +136,89 @@
               "ViewState": "AQIAAAUAAAAAMzMzMzMLwAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T14:14:39.955Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "Student_CourseManagement.Application\\services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\StudentServices.cs",
+              "RelativeToolTip": "Student_CourseManagement.Application\\services\\StudentServices.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwC8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:09:46.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\CourseServices.cs",
+              "RelativeDocumentMoniker": "Student_CourseManagement.Application\\services\\CourseServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\CourseServices.cs",
+              "RelativeToolTip": "Student_CourseManagement.Application\\services\\CourseServices.cs",
+              "ViewState": "AQIAACcAAAAA///////3vy8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:00:58.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAB8AAABAmZmZmZkTwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:14:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
+              "RelativeToolTip": "Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
+              "ViewState": "AQIAAAoAAABwzMzMzMw3wBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:13:29.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Student_CourseManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Program.cs",
-              "RelativeToolTip": "Student_CourseManagement\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAMjMzMzPrvxkAAAAiAAAA",
+              "Title": "StudentCourseServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
+              "RelativeDocumentMoniker": "Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
+              "RelativeToolTip": "Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAArwDgAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T15:24:27.853Z",
+              "WhenOpened": "2024-10-27T11:57:18.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UpdateStudent.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
-              "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
-              "RelativeToolTip": "Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
-              "ViewState": "AQIAACAAAAAA0czMzMwXwCUAAAAyAAAA",
+              "Title": "GetStudentsByCourseId.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
+              "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
+              "RelativeToolTip": "Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T12:31:05.961Z"
+              "WhenOpened": "2024-10-26T16:36:33.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Shared\\_Layout.cshtml",
@@ -174,20 +230,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "Student_CourseManagement.Persistance\\Repository\\BaseRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAWwCYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T11:14:29.236Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "UpdateStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
+              "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
+              "RelativeToolTip": "Student_CourseManagement\\Views\\Students\\UpdateStudent.cshtml",
+              "ViewState": "AQIAACAAAAAA0czMzMwXwCUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:31:05.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Student_CourseManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Program.cs",
+              "RelativeToolTip": "Student_CourseManagement\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAMjMzMzPrvxkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:24:27.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StudentCoursesController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Controllers\\StudentCoursesController.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Controllers\\StudentCoursesController.cs",
@@ -199,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UpdateCourse.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Courses\\UpdateCourse.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Courses\\UpdateCourse.cshtml",
@@ -211,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "GetStudentCourse.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\StudentCourses\\GetStudentCourse.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\StudentCourses\\GetStudentCourse.cshtml",
@@ -223,43 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentCourseServices.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
-              "RelativeDocumentMoniker": "Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
-              "RelativeToolTip": "Student_CourseManagement.Application\\services\\StudentCourseServices.cs",
-              "ViewState": "AQIAABMAAACQMjMzMzMfwBgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T11:57:18.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetStudentsByCourseId.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
-              "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
-              "RelativeToolTip": "Student_CourseManagement\\Views\\StudentCourses\\GetStudentsByCourseId.cshtml",
-              "ViewState": "AQIAAAkAAACg/////78twAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T16:36:33.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CourseServices.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\CourseServices.cs",
-              "RelativeDocumentMoniker": "Student_CourseManagement.Application\\services\\CourseServices.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\services\\CourseServices.cs",
-              "RelativeToolTip": "Student_CourseManagement.Application\\services\\CourseServices.cs",
-              "ViewState": "AQIAACcAAAAA///////3vzMAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T15:00:58.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Controllers\\CoursesController.cs",
@@ -272,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "GetCourses.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Courses\\GetCourses.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Courses\\GetCourses.cshtml",
@@ -284,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AddCourse.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Courses\\AddCourse.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Courses\\AddCourse.cshtml",
@@ -296,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "GetStudentById.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\Students\\GetStudentById.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\Students\\GetStudentById.cshtml",
@@ -308,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "GetAllStudentsInCourses.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Views\\StudentCourses\\GetAllStudentsInCourses.cshtml",
               "RelativeDocumentMoniker": "Student_CourseManagement\\Views\\StudentCourses\\GetAllStudentsInCourses.cshtml",
@@ -320,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "StudentCourse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\RRModels\\StudentCourse.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement.Application\\RRModels\\StudentCourse.cs",
@@ -332,19 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
-              "RelativeToolTip": "Student_CourseManagement.Application\\Abstraction\\IRepository\\IBaseRepository.cs",
-              "ViewState": "AQIAABMAAAAANDMzMzMDwBgAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T11:13:29.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Repository\\CourseRepository.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement.Persistance\\Repository\\CourseRepository.cs",
@@ -356,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "StudentCourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Repository\\StudentCourseRepository.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement.Persistance\\Repository\\StudentCourseRepository.cs",
@@ -368,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ICourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Abstraction\\IRepository\\ICourseRepository.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement.Application\\Abstraction\\IRepository\\ICourseRepository.cs",
@@ -380,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IStudentCourseServices.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Abstraction\\IServices\\IStudentCourseServices.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement.Application\\Abstraction\\IServices\\IStudentCourseServices.cs",
@@ -392,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IStudentCourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Abstraction\\IRepository\\IStudentCourseRepository.cs",
               "RelativeDocumentMoniker": "Student_CourseManagement.Application\\Abstraction\\IRepository\\IStudentCourseRepository.cs",

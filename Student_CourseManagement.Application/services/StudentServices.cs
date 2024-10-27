@@ -44,8 +44,8 @@ namespace Student_CourseManagement.Application.services
 
         public async Task<int> DeleteStudent(Guid id)
         {
-             
-            if (await repository.DeleteAsync<Student>(id) > 0)
+            var student = await repository.GetById<Student>(id);
+            if (await repository.DeleteAsync<Student>(student) > 0)
             {
                 return 1;
             }
