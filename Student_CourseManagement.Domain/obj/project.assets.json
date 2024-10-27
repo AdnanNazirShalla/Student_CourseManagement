@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Domain\\Student_CourseManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Domain\\Student_CourseManagement.Domain.csproj",
       "projectName": "Student_CourseManagement.Domain",
-      "projectPath": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Domain\\Student_CourseManagement.Domain.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Domain\\Student_CourseManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Domain\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

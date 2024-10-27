@@ -25,7 +25,15 @@ namespace Student_CourseManagement.API.Controllers
         [HttpPost("add/{id}")]
         public async Task<IActionResult> AddStudentCourse(Guid id,Guid CourseId)
         {
-            await services.AddStudentCourse(id,CourseId);
+           var res = await services.AddStudentCourse(id,CourseId);
+            if (res == 1)
+            {
+                TempData["Success"] = "Student Enrolled Successfully";
+            }
+            else
+            {
+                TempData["Error"] = "There is some error please try after sometime";
+            }
             return RedirectToAction(nameof(GetStudentCourse));
         }
 
@@ -39,6 +47,14 @@ namespace Student_CourseManagement.API.Controllers
         public async Task<IActionResult> DeleteStudentFromCourse(Guid id)
         {
             var res = await services.DeleteStudentFromCourse(id);
+            if (res == 1)
+            {
+                TempData["Success"] = "Student Removed Successfully";
+            }
+            else
+            {
+                TempData["Error"] = "There is some error please try after sometime";
+            }
             return RedirectToAction(nameof(GetStudentCourse));
         }
 

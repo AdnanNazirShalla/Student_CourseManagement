@@ -27,16 +27,16 @@ namespace Student_CourseManagement.API.Controllers
 
             if (res == 1)
             {
-                ViewBag.success = "Course Added Successfully";
+                TempData["Success"] = "Course Added Successfully";
                 return RedirectToAction(nameof(GetCourses));
             }
             else if (res ==0)
             {
-                ViewBag.error = "There is some error please try after sometime";
+                TempData["Error"] = "There is some error please try after sometime";
             }
             else
             {
-                ViewBag.error = "Course already exists";
+                TempData["Error"] = "Course already exists";
             }
             return View();
         }
@@ -59,12 +59,12 @@ namespace Student_CourseManagement.API.Controllers
 
             if (res == 1)
             {
-                ViewBag.success = "Course updated successfully";
+                TempData["Success"] = "Course updated successfully";
                 return RedirectToAction(nameof(GetCourses));
             }
             else
             {
-                ViewBag.error = "There is some error please try after sometime";
+                TempData["Error"] = "There is some error please try after sometime";
             }
             return View();
         }
@@ -73,6 +73,15 @@ namespace Student_CourseManagement.API.Controllers
         public async Task<IActionResult> DeleteCourse(Guid id)
         {
             var res = await services.DeleteCourse(id);
+
+            if (res ==1)
+            {
+                TempData["Success"] = "Course Deleted Successfully";
+            }
+            else
+            {
+                TempData["Error"] = "There is some error please try after sometime";
+            }
            return RedirectToAction(nameof(GetCourses));
         }
         public IActionResult Index()

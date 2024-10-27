@@ -45,9 +45,12 @@ namespace Student_CourseManagement.Application.services
             var updateStudents= await repository.RemoveStudentsInCourse(id);
 
 
-            if (await repository.DeleteAsync<Course>(id) > 0 && 
-                await repository.DeleteRangeAsync<StudentCourse>(studentsInCourse) > 0)
+            if (await repository.DeleteAsync<Course>(id) > 0)
             {
+                if (studentsInCourse != null)
+                {
+                    await repository.DeleteRangeAsync<StudentCourse>(studentsInCourse);
+                }
                 return 1;
             }
             return 0;

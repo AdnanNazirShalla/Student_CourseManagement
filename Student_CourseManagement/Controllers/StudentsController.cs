@@ -4,7 +4,7 @@ using Student_CourseManagement.Application.RRModels;
 
 namespace Student_CourseManagement.API.Controllers
 {
-    [Route("students")]
+    //[Route("students")]
     public class StudentsController : Controller
     {
         private readonly IStudentServices services;
@@ -107,9 +107,6 @@ namespace Student_CourseManagement.API.Controllers
            return RedirectToAction(nameof(GetStudents));
 
         }
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
+        
     }
 }

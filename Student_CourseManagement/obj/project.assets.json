@@ -13270,11 +13270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement\\Student_CourseManagement.API.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Student_CourseManagement.API.csproj",
       "projectName": "Student_CourseManagement.API",
-      "projectPath": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement\\Student_CourseManagement.API.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\Student_CourseManagement.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13292,11 +13292,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj"
+            "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Application\\Student_CourseManagement.Application.csproj"
             },
-            "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj": {
-              "projectPath": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj"
+            "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj"
             }
           }
         }

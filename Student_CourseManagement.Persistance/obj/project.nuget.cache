@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nGKApUjIwJo=",
+  "dgSpecHash": "wU7OT16/rj4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\GitHub\\Student_CourseManagement\\Student_CourseManagement.Persistance\\Student_CourseManagement.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

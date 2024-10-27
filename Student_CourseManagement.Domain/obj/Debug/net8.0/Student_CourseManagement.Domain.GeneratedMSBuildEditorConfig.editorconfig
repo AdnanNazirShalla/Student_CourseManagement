@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Student_CourseManagement.Domain
-build_property.ProjectDir = C:\Users\HP\Source\Repos\Student_CourseManagement\Student_CourseManagement.Domain\
+build_property.ProjectDir = C:\Users\HP\Documents\GitHub\Student_CourseManagement\Student_CourseManagement.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
